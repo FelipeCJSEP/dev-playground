@@ -70,6 +70,8 @@ To-Do List Menu:
 ```
 
 ## Project Structure
+
+```bash
 todo_cli/
 │
 ├── todo/                  # Main package
@@ -88,6 +90,7 @@ todo_cli/
 │
 ├── main.py                # Entry point of the application
 └── README.md
+```
 
 ---
 
