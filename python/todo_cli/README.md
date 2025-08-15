@@ -105,11 +105,13 @@ python -m unittest discover -s tests -v
 ```
 
 Expected output:
+```bash
 ........
 ----------------------------------------------------------------------
 Ran 14 tests in 0.035s
 
 OK
+```
 
 ## License
 
