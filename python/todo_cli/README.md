@@ -26,8 +26,8 @@ A simple **Command-Line Interface (CLI) To-Do List** application in Python, allo
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd todo_cli
+git clone https://github.com/FelipeCJSEP/dev-playground.git
+cd python/todo_cli
 ```
 
 2. Create and activate a virtual environment (recommended):
