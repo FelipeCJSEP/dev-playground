@@ -83,7 +83,8 @@ todo_cli/
 │
 ├── tests/                 # Unit tests
 │   ├── __init__.py
-│   └── test_task_manager.py
+│   ├── test_task_manager_with_mocked_input.py
+|   └── test_task_manager.py
 │
 ├── data/                  # JSON file storage
 │   └── tasks.json
