@@ -45,6 +45,7 @@ pip install -r requirements.txt
 ```
 
 Dependencies:
+- Python >= 3.10.0
 - tabulate (for displaying tables in CLI)
 
 ---
